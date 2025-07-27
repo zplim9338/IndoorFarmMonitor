@@ -1,0 +1,103 @@
+# General development files
+.user
+.userosscache
+.suo
+.cache
+.vs
+.vs
+.vscode
+.idea
+.swp
+~
+._
+
+# Build outputs
+[Bb]in
+[Oo]bj
+bld
+[Bb]uild
+[Bb]uildArtifacts
+out
+x64
+x86
+
+# NuGet packages
+[Nn]u[Pp]ackages
+.nupkg
+packages
+
+# MSBuild and Visual Studio files
+.msi
+.msm
+.msp
+.cache
+.docstates
+.jfm
+.ide
+.sln.iml
+
+# ReSharper and Rider
+_ReSharper.
+.ReSharper
+.DotSettings.user
+.idea
+
+# Test results
+[Tt]est[Rr]esult
+.trx
+TestResults.xml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts
+.DotSettings
+
+# Logs and diagnostics
+.log
+.log.
+[Nl]og
+[Ll]ogs
+.sublime-workspace
+
+# Local development files
+appsettings.Development.json
+appsettings.Local.json
+appsettings.private.json
+secrets.json
+launchSettings.json.user
+
+# Compiled output
+.dll
+.pdb
+.exe
+.winmd
+.ilk
+.exp
+.lib
+.manifest
+.cache
+.resources
+
+# Azure Functions
+func.exe
+func.dll
+
+# Docker
+docker-compose.override.yml
+
+# Code coverage
+coverage.
+.coverage
+.coveragexml
+
+# SQL Server files
+.mdf
+.ldf
+.ndf
+
+# Entity Framework Core Migrations temp files
+.resx
+
+# SonarQube
+.sonarqube/
